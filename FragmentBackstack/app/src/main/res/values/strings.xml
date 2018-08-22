@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Fragment Backstack</string>
+    <string name="add_a">ADD A</string>
+    <string name="remove_a">REMOVE A</string>
+    <string name="add_b">ADD B</string>
+    <string name="remove_b">REMOVE B</string>
+    <string name="attach_a">ATTACH A</string>
+    <string name="detach_a">DETACH A</string>
+    <string name="attach_b">ATTACH B</string>
+    <string name="detach_b">DETACH B</string>
+    <string name="show_a">SHOW A</string>
+    <string name="hide_a">HIDE A</string>
+    <string name="show_b">SHOW B</string>
+    <string name="hide_b">HIDE B</string>
+    <string name="replace_by_a">Replace by A</string>
+    <string name="replace_by_b">Replace by B</string>
+    <string name="back">Back</string>
+    <string name="pop_add_a_inclusive">POP ADD A - INCLUSIVE</string>
+    <string name="pop_add_b">POP ADD B</string>
+</resources>

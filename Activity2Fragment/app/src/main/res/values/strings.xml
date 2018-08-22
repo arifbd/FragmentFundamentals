@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Activity2Fragment</string>
+    <string name="this_is_fragment_a">This is Fragment A</string>
+    <string name="add">Add</string>
+    <string name="result">Result</string>
+</resources>
